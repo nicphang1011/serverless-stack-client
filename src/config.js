@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51GvfiXKQYMcC604iOWMz2VgiNDiLxACePmGc0a1Cn2O2VHfXOYNehS6WOUwJPNsbV8r9sQJdSOJ8YNP6qWc0iwGo00KcxcfYFn",
   s3: {
     REGION: "us-east-1",
     BUCKET: "nicnotesappuploads"
